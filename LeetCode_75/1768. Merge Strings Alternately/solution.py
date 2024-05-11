@@ -10,6 +10,7 @@ word1 and word2 consist of lowercase English letters.
 Example:
 Input: word1 = "abcd", word2 = "pq"
 Output: "apbqcd"
+
 Explanation: Notice that as word1 is longer, "cd" is appended to the end.
 word1:  a   b   c   d
 word2:    p   q 
